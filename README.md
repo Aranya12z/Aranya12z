@@ -1,5 +1,6 @@
-### Hi there 👋
-Hello
+### Hello
+I am new to programming 
+and still learning to code 
 <!--
 **Aranya12z/Aranya12z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
